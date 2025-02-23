@@ -17,7 +17,6 @@ This is a solution to the [Abstract challenge on Frontend Practice](https://www.
 ![image](https://github.com/TwinkleByte/Abstract/blob/main/C2-abstract.png)
 
 ### Links
-{{NAME}}
 - Solution URL: [Solution](https://github.com/TwinkleByte/Abstract)
 - Live Site URL: [Live site URL](https://twinklebyte.github.io/Abstract/)
 
