@@ -10,7 +10,6 @@ This is a solution to the [Abstract challenge on Frontend Practice](https://www.
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
 
 ## Overview
 
